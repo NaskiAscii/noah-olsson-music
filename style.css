@@ -1,0 +1,30 @@
+        body {
+            background-color: black;
+            color: orange;
+            font-family: "Times New Roman", serif;
+            text-align: center;
+        }
+        .header {
+            background-color: orange;
+            padding: 10px;
+            border-radius: 20px;
+            display: inline-block;
+        }
+        .content {
+            background-color: orange;
+            width: 80%;
+            margin: 20px auto;
+            padding: 15px;
+            border-radius: 20px;
+        }
+        .menu {
+            color: purple;
+            font-weight: bold;
+        }
+        .placeholder {
+            background-color: white;
+            width: 100px;
+            height: 100px;
+            display: inline-block;
+            margin-top: 10px;
+        }
