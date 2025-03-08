@@ -1,8 +1,15 @@
         body {
             background-color: black;
-            color: orange;
+            
             font-family: "Times New Roman", serif;
             text-align: center;
+        }
+        container {
+                color: orange;
+                background-color: black;
+            
+                    font-family: "Times New Roman", serif;
+                    text-align: center;
         }
         .header {
             background-color: orange;
